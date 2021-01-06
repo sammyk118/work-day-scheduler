@@ -16,7 +16,7 @@ This project is about using local storage and moment.js to create a day planner 
 
 - a form, and a button to locally save that form for each hour in a workday
 
-![image](./Planner-Icon.png)
+![image](assets/Planner-Icon.png)
 
 ```javascript
 $(".saveBtn").on("click", function () {
