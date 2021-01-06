@@ -10,7 +10,7 @@ This project is about using local storage and moment.js to create a day planner 
 - Bootstrap
 - Jquery
 
-[Website]
+[Website](https://sammyk118.github.io/work-day-scheduler/)
 
 ## Features
 
